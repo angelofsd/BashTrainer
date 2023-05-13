@@ -19,7 +19,7 @@ public class Shell {
 
             String[] args = command.split(" "); // Split input by spaces to separate the command and its arguments
 
-            // Process the commands entered by the user
+            // Process the command entered by the user
             switch (args[0]) {
                 case "pwd":
                     System.out.println(current.getName());

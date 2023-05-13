@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class FileSystem {
     private Map<String, FileSystem> children = new HashMap<>(); // A map to store child directories
-    private String name; // The name of the directory represented by this FileSystem object
+    private String name; //  Name of the directory represented by this FileSystem object
 
     public FileSystem(String name) {
         this.name = name; // Set the name of the directory

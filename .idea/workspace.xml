@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01878a35-4f20-4201-ab82-1e184646895a" name="Changes" comment="" />
+    <list default="true" id="01878a35-4f20-4201-ab82-1e184646895a" name="Changes" comment="initial outline">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileSystemEmulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileSystemEmulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shell.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +33,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\opsec\IdeaProjects\BashTrainer" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683912942253</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial outline">
+      <created>1683939027122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683939027122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial outline" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial outline" />
   </component>
 </project>
